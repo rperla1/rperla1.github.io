@@ -1,0 +1,20 @@
+body {
+  background-color:lavender;
+  margin: 10px 20px 15px 20px; 
+}
+ 
+h1 {
+  font-family:"Century", Times New Roman, Times, serif; 
+  text-align:center; 
+}
+
+h2 {
+  font-family:"Century", Times New Roman, Times, serif; 
+  text-align:center; 
+}
+
+p {
+  margin: 5px 15px 10px 15px; 
+  font-family:"Calibri", Verdana, Helvetica, sans-serif; 
+  font-size: 14px;  
+}
